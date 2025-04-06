@@ -46,5 +46,5 @@ Besides, I focused on accessiblity and using the correct semantic HTML elements.
 
 - [Introduction to variable fonts on the web](https://web.dev/articles/variable-fonts) - This helped me understand variable fonts.
 - [Variable fonts guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_fonts/Variable_fonts_guide) - This helped me understand variable fonts.
-- [<article>: The Article Contents element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) - This helped me better understand when to use the article element.
-- [<time>: The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - This is helped me better understand when to use the time element.
+- [The Article Contents element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) - This helped me better understand when to use the article element.
+- [The (Date) Time element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - This is helped me better understand when to use the time element.
