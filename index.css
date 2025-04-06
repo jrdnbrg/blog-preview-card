@@ -46,6 +46,11 @@ header {
 h1 {
   font-weight: 800;
   margin: 20px 0;
+  cursor: pointer;
+}
+
+h1:active {
+  color: hsl(47, 88%, 63%);
 }
 
 .description {
